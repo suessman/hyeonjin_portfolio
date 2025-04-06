@@ -24,9 +24,14 @@
  }
 
  .tit-font{
-  font-family: 'RixYeoljeongdo_Regular';
+  font-family: 'RixYeoljeongdo_Regular' !important;
   font-weight: 700;
  }
+
+.sm-font{
+  font-size:1rem;
+  color:#646464;
+}
 
  .header_bg{
   background-image:url('../assets/img/top_image.jpg'); 
