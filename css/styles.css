@@ -24,7 +24,15 @@
   background-position: center;
   background-repeat: no-repeat;
  }
-
+ .cta{
+  background-image:url('../assets/img/img_hire.jpg'); 
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+ }
+.features{
+  background:#f1f3f5;
+}
  .portfolio_bg{
   background-image:url('../assets/img/portfolio_list.jpg'); 
   background-size: cover; 
